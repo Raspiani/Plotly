@@ -6,3 +6,4 @@ Belajar Modul Plotly di Python
 - Plotly - Visualisasi Data di Python dengan Data Asli
 - Plotly - Bar Chart di Plotly
 - Plotly - Scatter Chart di Plotly
+- Plotly - Line Chart di Plotly
