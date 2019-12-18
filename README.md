@@ -10,3 +10,5 @@ Belajar Modul Plotly di Python
 - Plotly - Multi Line Chart di Plotly
 - Plotly - Penambahan Titik-Titik pada Line Chart di Plotly
 - Plotly - Automate Mutiple Line pada Line Chart di Plotly
+- Plotly - Bar Chart di Plotly
+- Plotly - Grouping Bar Chart di Plotly
