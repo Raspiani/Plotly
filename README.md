@@ -12,3 +12,12 @@ Belajar Modul Plotly di Python
 - Plotly - Automate Mutiple Line pada Line Chart di Plotly
 - Plotly - Bar Chart di Plotly
 - Plotly - Grouping Bar Chart di Plotly
+- Plotly - Membuat Sebuah Chart Bar Stack di Plotly
+- Plotly - Membuat Bar dan Line Combo Chart di Plotly
+- Plotly - Cara Customize Warna Chart di Plotly
+- Plotly - Cara Membuat Bubble Chart di Plotly
+- Plotly - Cara Membuat Bubble Chart dengan Kategori di Plotly
+- Plotly - Cara Membuat Histogram di Plotly
+- Plotly - Cara Membuat Box Plot di Plotly
+- Plotly - Cara Membuat Matrix Scatter Plot di Plotly
+- Plotly - Menambahkan Dimensi ke Matrix Scatterplot di Plotly
